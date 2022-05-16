@@ -13,4 +13,3 @@ height="108" alt="Cup of coffee on saucer" />
 </marquee>
 </body>
 </html>
-<html>
